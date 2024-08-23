@@ -4,9 +4,9 @@
   "type": "module",
   "main": "index.js",
   "private": false,
-  "author": "unmesh",
+  "author": "bubun",
   "bin": {
-    "unmesh": "index.js"
+    "bubun": "index.js"
   },
   "keywords": [
     "cli",
