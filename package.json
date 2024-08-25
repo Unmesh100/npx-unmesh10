@@ -1,12 +1,12 @@
 {
-  "name": "bubun",
+  "name": "unmesh100",
   "module": "index.ts",
   "type": "module",
   "main": "index.js",
   "private": false,
-  "author": "bubun",
+  "author": "unmesh100",
   "bin": {
-    "bubun": "index.js"
+    "unmesh100": "index.js"
   },
   "keywords": [
     "cli",
