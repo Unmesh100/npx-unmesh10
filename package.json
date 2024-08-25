@@ -1,12 +1,12 @@
 {
-  "name": "unmesh100",
+  "name": "unmesh10",
   "module": "index.ts",
   "type": "module",
   "main": "index.js",
   "private": false,
-  "author": "unmesh100",
+  "author": "unmesh10",
   "bin": {
-    "unmesh100": "index.js"
+    "unmesh10": "index.js"
   },
   "keywords": [
     "cli",
