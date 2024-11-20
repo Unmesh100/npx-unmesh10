@@ -11,5 +11,6 @@ And There you Go!
 </p>
 <br>
 
-![Screenshot 2024-10-31 100402](https://github.com/user-attachments/assets/03c5e248-4361-4ec9-82cf-d9e99e5db14a)
+![image](https://github.com/user-attachments/assets/72406809-b9e5-4f20-9ba7-62b5d2167f16)
+
 </br>
